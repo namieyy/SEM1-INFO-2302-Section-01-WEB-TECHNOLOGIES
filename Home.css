@@ -1,0 +1,28 @@
+div.absolute {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  clip-path: polygon(85% 50%,0 0,0 100%);
+
+}
+
+div.absolute:hover{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  clip-path: none;
+}
+
+div.absolute1{
+  position: absolute;
+  top: 200px;
+  left: 50%;
+}
+div.absolute2{
+  position: absolute;
+  top: 265px;
+  left: 50%
+}
+input.width{
+  width: 230px;
+}
